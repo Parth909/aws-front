@@ -1,0 +1,16 @@
+#nprogress .bar {
+  height: 5px !important;
+  background: white !important;
+}
+
+.nav a:hover {
+  border-radius: 5px;
+}
+
+.nav .nav-item a.custom-white {
+  color: white;
+}
+
+.nav-item a:hover {
+  cursor: pointer;
+}
