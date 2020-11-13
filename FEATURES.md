@@ -55,3 +55,6 @@
    - **Pull you code onto the server from github**
    - **Start your node application with pm2**
    - **Configure NGINX to make your app (both frontend/backend) run on port 80**
+     - https://www.nginx.com/resources/wiki/start/
+     - https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/
+     - https://wiki.debian.org/Nginx/DirectoryStructure
